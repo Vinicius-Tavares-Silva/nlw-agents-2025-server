@@ -15,6 +15,13 @@
       "when": 1752015555568,
       "tag": "0001_silky_mauler",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752096465012,
+      "tag": "0002_fine_nightshade",
+      "breakpoints": true
     }
   ]
 }
